@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/easyschoolmanage/static/css/main.dbba5ffe.chunk.css",
+    "main.js": "/easyschoolmanage/static/js/main.67a28d69.chunk.js",
+    "main.js.map": "/easyschoolmanage/static/js/main.67a28d69.chunk.js.map",
+    "runtime-main.js": "/easyschoolmanage/static/js/runtime-main.befab5da.js",
+    "runtime-main.js.map": "/easyschoolmanage/static/js/runtime-main.befab5da.js.map",
+    "static/css/2.a1adc0b6.chunk.css": "/easyschoolmanage/static/css/2.a1adc0b6.chunk.css",
+    "static/js/2.eec4a291.chunk.js": "/easyschoolmanage/static/js/2.eec4a291.chunk.js",
+    "static/js/2.eec4a291.chunk.js.map": "/easyschoolmanage/static/js/2.eec4a291.chunk.js.map",
+    "static/js/3.983b0766.chunk.js": "/easyschoolmanage/static/js/3.983b0766.chunk.js",
+    "static/js/3.983b0766.chunk.js.map": "/easyschoolmanage/static/js/3.983b0766.chunk.js.map",
+    "index.html": "/easyschoolmanage/index.html",
+    "static/css/2.a1adc0b6.chunk.css.map": "/easyschoolmanage/static/css/2.a1adc0b6.chunk.css.map",
+    "static/css/main.dbba5ffe.chunk.css.map": "/easyschoolmanage/static/css/main.dbba5ffe.chunk.css.map",
+    "static/js/2.eec4a291.chunk.js.LICENSE.txt": "/easyschoolmanage/static/js/2.eec4a291.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/easyschoolmanage/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/nodata.c48f2857.png": "/easyschoolmanage/static/media/nodata.c48f2857.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.befab5da.js",
+    "static/css/2.a1adc0b6.chunk.css",
+    "static/js/2.eec4a291.chunk.js",
+    "static/css/main.dbba5ffe.chunk.css",
+    "static/js/main.67a28d69.chunk.js"
+  ]
+}
