@@ -42,9 +42,6 @@ const Login = (props) =>
 		fetch(`${ServiceDomain}login`,
 		{
 			method:'POST',
-			headers:{
-				'Content-Type':'application/json'
-			},
 			body:JSON.stringify(data)
 		})
 		.then(resp => resp.json())
